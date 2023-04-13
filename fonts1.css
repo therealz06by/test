@@ -1,0 +1,15 @@
+.box {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0;
+    background-color: white;
+    float: center;
+}
+
+body {
+    height: 100%;
+    background-image: url("background.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
